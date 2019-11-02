@@ -4,9 +4,9 @@ I followed the tutorials of Wes Doyle
 
 [YouTube series playlist:](https://www.youtube.com/watch?v=qa7AYCVY-aA&list=PL3_YUnRN3UhhoRDxB5civwI4_MY7PL9Bx)
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic3-MultipleTabBars/blob/master/src/assets/screenshot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic3-Notes/blob/master/src/assets/screenshot1.png" width="500"/>
 
-<img src="https://github.com/martha-softwaredeveloper/Ionic3-MultipleTabBars/blob/master/src/assets/screenshot.png" width="500"/>
+<img src="https://github.com/martha-softwaredeveloper/Ionic3-Notes/blob/master/src/assets/screenshot2.png" width="500"/>
 
 ## Topic covered
 
